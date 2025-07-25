@@ -1,78 +1,70 @@
-# 💼 Kumpulan Tugas Praktikum QA & Pemrograman – Aman Swasono
+# 🎓 QA Engineer Bootcamp Portfolio – Aman Swasono
 
-Repositori ini berisi kumpulan tugas praktikum yang mencakup tiga kategori utama dalam pengembangan perangkat lunak dan Quality Assurance, yaitu:
+Repositori ini merupakan portofolio pembelajaran saya selama mengikuti **QA Engineer Bootcamp: Basic Automation & Testing**, yang berfokus pada praktik pengujian perangkat lunak dan pemrograman menggunakan JavaScript.
 
-- ✅ Testing & Bugs Management
-- ✅ Programming Fundamental
-- ✅ Programming Advanced
-
-Disusun dan dikembangkan menggunakan bahasa JavaScript berbasis Node.js serta pendekatan pengujian berbasis dokumen QA standar industri.
+📌 **Catatan:** Repositori ini akan **diperbarui secara berkala** selama proses belajar berlangsung.
 
 ---
 
-## 📁 Daftar Tugas
+## 📂 Struktur Tugas
 
-### 1. 🧪 Testing & Bugs Management
+### 1. 🧪 Testing & Bug Management
+Pengujian fungsional situs [SauceDemo](https://www.saucedemo.com/) meliputi:
+- Login  
+- Sorting Produk  
+- Logout  
 
-Tugas ini difokuskan pada aktivitas pengujian dan dokumentasi bug untuk fitur-fitur utama dari situs [SauceDemo](https://www.saucedemo.com/). 
+📄 **Dokumentasi**:
+- ✅ Test Plan  
+- ✅ Test Case (positif & negatif)  
+- ✅ Bug Report (lengkap dengan langkah reproduksi, hasil aktual & ekspektasi)
 
-**Lingkup Fitur yang Diuji:**
-- Login
-- Sorting Produk
-- Logout
-
-**Dokumentasi yang Disertakan:**
-- ✅ Test Plan
-- ✅ Test Case (positif & negatif)
-- ✅ Bug Report (dengan langkah reproduksi, hasil aktual & ekspektasi)
-
-📂 **Lokasi File:**
-`/Task_Testing_Bugs_Management/`
+📁 **Folder**: `Task_Testing_Bugs_Management/`
 
 ---
 
-### 2. 💻 Programming Fundamental
+### 2. 💻 Programming Fundamental  
+Latihan logika pemrograman dasar menggunakan JavaScript (Node.js).
 
-Tugas ini melatih logika pemrograman dasar dengan JavaScript menggunakan pendekatan looping dan kontrol alur program.
+📄 **Tugas**:
+- Menampilkan pola segitiga siku-siku menggunakan perulangan
 
-**Deskripsi Tugas:**
-- Membuat segitiga siku-siku menggunakan perulangan
-- Menampilkan pola segitiga di terminal
-
-📂 **Lokasi File:**
-`/Task_Programming_Fundamental/segitiga_looping.js`
+📁 **File**: `Task_Programming_Fundamental/segitiga_looping.js`
 
 ---
 
-### 3. 🚀 Programming Advanced
+### 3. 🚀 Programming Advanced  
+Aplikasi kalkulator interaktif berbasis terminal dengan Node.js.
 
-Tugas lanjutan berupa kalkulator interaktif berbasis terminal menggunakan JavaScript (Node.js).
-
-**Fitur Aplikasi Kalkulator:**
-- Operasi Matematika: Tambah, Kurang, Kali, Bagi
-- Interaksi terminal dinamis
+📄 **Fitur**:
+- Operasi Matematika: tambah, kurang, kali, bagi  
+- Interaksi terminal dinamis  
 - Pengulangan hingga pengguna memilih keluar
 
-📂 **Struktur Folder:**
-`/Task_Programming_Advanced/kalkulator/`
-- `menu.js` → Menampilkan pilihan menu
-- `rumus.js` → Logika perhitungan
-- `package.json` → Informasi dependencies dan konfigurasi
+📁 **Folder**: `Task_Programming_Advanced/kalkulator/`  
+Berisi:
+- `menu.js` – Tampilan menu  
+- `rumus.js` – Logika perhitungan  
+- `package.json` – Informasi konfigurasi & dependencies
 
 ---
 
 ## ⚙️ Teknologi yang Digunakan
-
-- JavaScript (Node.js)
-- Visual Studio Code
-- Git & GitHub
+- JavaScript (Node.js)  
+- Visual Studio Code  
+- Git & GitHub  
 - Microsoft Office (untuk dokumentasi QA)
 
 ---
 
-## 🙌 Kontribusi & Kredit
-
-Disusun oleh **Aman Swasono** sebagai bagian dari praktik mandiri dalam penguasaan QA Engineer dan Programming Developer.
+## 📌 Lisensi
+Repositori ini dilisensikan di bawah **MIT License** – bebas digunakan untuk keperluan pembelajaran.
 
 ---
 
+## 🙋‍♂️ Kontributor
+**Aman Swasono**  
+Peserta Bootcamp QA Engineer  
+Email: [email@example.com] *(opsional)*
+
+---
