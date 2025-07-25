@@ -1,8 +1,5 @@
-# 🎓 QA Engineer Bootcamp Portfolio – Aman Swasono
-
-Repositori ini merupakan portofolio pembelajaran saya selama mengikuti **QA Engineer Bootcamp: Basic Automation & Testing**, yang berfokus pada praktik pengujian perangkat lunak dan pemrograman menggunakan JavaScript.
-
-📌 **Catatan:** Repositori ini akan **diperbarui secara berkala** selama proses belajar berlangsung.
+Halo! Terima kasih telah mengunjungi repositori ini.
+Repositori ini berisi tugas sesi 5 dari bootcamp QA Engineer: Basic Automation & Testing.
 
 ---
 
