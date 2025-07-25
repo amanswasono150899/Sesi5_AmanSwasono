@@ -65,6 +65,6 @@ Repositori ini dilisensikan di bawah **MIT License** – bebas digunakan untuk k
 ## 🙋‍♂️ Kontributor
 **Aman Swasono**  
 Peserta Bootcamp QA Engineer  
-Email: [email@example.com] *(opsional)*
+Email: [amanswasono150899@gmail.com] 
 
 ---
