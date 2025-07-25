@@ -1,5 +1,6 @@
-## 👋 Hallo! Terima kasih telah mengunjungi repositori ini.
-Repositori ini berisi tugas sesi 5 dari bootcamp QA Engineer: Basic Automation & Testing.
+## Hallo 👋! 
+#Terima kasih telah mengunjungi repositori ini.
+#Repositori ini berisi tugas sesi 5 dari bootcamp QA Engineer: Basic Automation & Testing.
 
 ---
 
