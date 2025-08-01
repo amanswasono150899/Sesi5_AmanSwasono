@@ -1,5 +1,5 @@
 ## Hallo 👋! 
-Terima kasih telah mengunjungi repositori ini. Repositori ini berisi tugas sesi 5 dari bootcamp QA Engineer: Basic Automation & Testing.
+Terima kasih telah mengunjungi repositori ini. Repositori ini berisi task dari bootcamp QA Engineer: Basic Automation & Testing.
 
 ---
 
@@ -44,6 +44,39 @@ Berisi:
 - `rumus.js` – Logika perhitungan  
 - `package.json` – Informasi konfigurasi & dependencies
 
+---
+
+### 4. 🚀 API Automation Testing – Reqres.in  
+Proyek ini merupakan implementasi pengujian otomatis API publik [Reqres.in](https://reqres.in) menggunakan **Node.js**, **Mocha**, **Chai**, **AJV**, dan **Mochawesome**.
+
+---
+
+## 📦 Tech Stack
+
+| Tool         | Deskripsi                           |
+|--------------|--------------------------------------|
+| Node.js 18+  | JavaScript runtime (dengan fetch bawaan) |
+| Mocha        | Test runner                         |
+| Chai         | Assertion library                   |
+| AJV          | JSON Schema validation              |
+| Mochawesome  | HTML reporting                      |
+| CommonJS     | Menggunakan `require()`             |
+
+---
+
+## 📁 Struktur Proyek
+
+api-tests/
+├── test/
+│ ├── getUser.test.js
+│ ├── postUser.test.js
+│ ├── patchUser.test.js
+│ └── deleteUser.test.js
+├── schemas/
+│ └── userList.schema.json
+├── utils/
+│ └── validator.js
+├── package.json
 ---
 
 ## ⚙️ Teknologi yang Digunakan
