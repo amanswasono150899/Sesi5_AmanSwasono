@@ -1,11 +1,13 @@
+# 🎓 QA Engineer Bootcamp Portfolio – Aman Swasono
+
 ## Hallo 👋! 
-Terima kasih telah mengunjungi repositori ini. Repositori ini berisi task dari bootcamp QA Engineer: Basic Automation & Testing.
+Terima kasih telah mengunjungi repositori ini. Repositori ini berisi kumpulan tugas dari Bootcamp QA Engineer: Basic Automation & Testing.
 
 ---
 
 ## 📂 Struktur Tugas
 
-### 1. 🧪 Testing & Bug Management
+### 1. 🧪 Testing & Bug Management  
 Pengujian fungsional situs [SauceDemo](https://www.saucedemo.com/) meliputi:
 - Login  
 - Sorting Produk  
@@ -46,37 +48,46 @@ Berisi:
 
 ---
 
-### 4. 🚀 API Automation Testing – Reqres.in  
-Proyek ini merupakan implementasi pengujian otomatis API publik [Reqres.in](https://reqres.in) menggunakan **Node.js**, **Mocha**, **Chai**, **AJV**, dan **Mochawesome**.
+### 4. 🔌 API Automation Testing – Reqres.in  
+Proyek ini adalah implementasi pengujian otomatis untuk API publik [Reqres.in](https://reqres.in) menggunakan **Node.js**, **Mocha**, dan **Mochawesome**, tanpa library tambahan seperti Chai atau AJV.
+
+📄 **Fitur yang Diuji**:
+- ✅ GET: Ambil daftar pengguna  
+- ✅ POST: Tambah pengguna baru  
+- ✅ PATCH: Perbarui data pengguna  
+- ✅ DELETE: Hapus pengguna
+- 
+
+📁 **Folder**: `Task_Sesi_11_API_Automation/`  
+Berisi:
+- `tests/` – Kumpulan file test case:
+  - `getUser.js` – Menguji endpoint GET pengguna
+  - `createUser.js` – Menguji endpoint POST untuk membuat pengguna
+  - `updateUser.js` – Menguji endpoint PATCH untuk memperbarui pengguna
+  - `deleteUser.js` – Menguji endpoint DELETE untuk menghapus pengguna
+- `mochawesome-report/` – Hasil laporan otomatis dalam format HTML
+- `node_modules/` – Dependency dari project Node.js
+- `package.json` – Konfigurasi dependencies dan script npm
+- `package-lock.json` – File pengunci versi dependency yang terinstal
+
+
+📌 **Catatan**:
+- Menggunakan `assert` bawaan Node.js untuk validasi hasil
+- Menggunakan `require()` (CommonJS), *bukan* `import`
+- Report HTML dihasilkan otomatis oleh Mochawesome
 
 ---
 
 ## 📦 Tech Stack
 
-| Tool         | Deskripsi                           |
-|--------------|--------------------------------------|
-| Node.js 18+  | JavaScript runtime (dengan fetch bawaan) |
-| Mocha        | Test runner                         |
-| Chai         | Assertion library                   |
-| AJV          | JSON Schema validation              |
-| Mochawesome  | HTML reporting                      |
-| CommonJS     | Menggunakan `require()`             |
+| Tool         | Deskripsi                                |
+|--------------|-------------------------------------------|
+| Node.js 18+  | JavaScript runtime modern                |
+| Mocha        | JavaScript test runner                   |
+| Assert       | Assertion bawaan Node.js                 |
+| Mochawesome  | Reporter HTML untuk hasil pengujian      |
+| CommonJS     | Format module menggunakan `require()`    |
 
----
-
-## 📁 Struktur Proyek
-
-api-tests/
-├── test/
-│ ├── getUser.test.js
-│ ├── postUser.test.js
-│ ├── patchUser.test.js
-│ └── deleteUser.test.js
-├── schemas/
-│ └── userList.schema.json
-├── utils/
-│ └── validator.js
-├── package.json
 ---
 
 ## ⚙️ Teknologi yang Digunakan
@@ -95,6 +106,9 @@ Repositori ini dilisensikan di bawah **MIT License** – bebas digunakan untuk k
 ## 🙋‍♂️ Kontributor
 **Aman Swasono**  
 Peserta Bootcamp QA Engineer  
-Email: [amanswasono150899@gmail.com] 
+Email: [amanswasono150899@gmail.com](mailto:amanswasono150899@gmail.com)
 
 ---
+
+📁 **Folder**: `Task Sesi 11 - API Automation/`  
+Struktur isi:
