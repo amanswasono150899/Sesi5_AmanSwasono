@@ -1,5 +1,3 @@
-# 🎓 QA Engineer Bootcamp Portfolio – Aman Swasono
-
 ## Hallo 👋! 
 Terima kasih telah mengunjungi repositori ini. Repositori ini berisi kumpulan tugas dari Bootcamp QA Engineer: Basic Automation & Testing.
 
